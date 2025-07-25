@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\B09S105est\\Desktop\\Laura Ardila\\1.InicioVisualStudio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF69FFBD-6FE3-4FB3-8A90-570891712F31}|1.InicioVisualStudio\\1.InicioVisualStudio.csproj|c:\\users\\b09s105est\\desktop\\laura ardila\\1.iniciovisualstudio\\1.iniciovisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF69FFBD-6FE3-4FB3-8A90-570891712F31}|1.InicioVisualStudio\\1.InicioVisualStudio.csproj|solutionrelative:1.iniciovisualstudio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\B09S105est\\Desktop\\Laura Ardila\\1.InicioVisualStudio\\1.InicioVisualStudio\\Program.cs",
+              "RelativeDocumentMoniker": "1.InicioVisualStudio\\Program.cs",
+              "ToolTip": "C:\\Users\\B09S105est\\Desktop\\Laura Ardila\\1.InicioVisualStudio\\1.InicioVisualStudio\\Program.cs",
+              "RelativeToolTip": "1.InicioVisualStudio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:50:05.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
