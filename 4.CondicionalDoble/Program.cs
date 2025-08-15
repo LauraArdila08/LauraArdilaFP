@@ -46,7 +46,7 @@ namespace _4.CondicionalDoble
             }*/
 
             //Crear un algoritmo que permita ingresar dos números, si el primer número es mayor al segundo número informar su suma y diferencia, en caso contrario informar el producto y la división del primer número respecto al segundo número.
-            int num1 = 0;
+            /*int num1 = 0;
             int num2 = 0;
             int num3 = 0;
             int num4 = 0;
@@ -69,6 +69,30 @@ namespace _4.CondicionalDoble
                 num4 = num1 / num2;
                 Console.WriteLine($"Producto: {num3}, División: {num4}");
 
+            }*/
+
+            /*Un cliente se hospeda varias noches en una hostería, el precio por noche es de 200 dólares. 
+            Si el usuario se queda más de 3 noches se le aplica un porcentaje de descuento del 17 % y si no se aplica un porcentaje de descuento del 2 %.
+            Mostrar un mensaje con el monto total que debe pagar el cliente, sabiendo que el usuario indica cuántas noches se va a quedar en la hostería.*/
+
+            int noche = 0;
+            double precioTotal = 0;
+            double descuento = 0;
+
+            Console.WriteLine("Ingrese número de noches hospedadas");
+            noche = Int32.Parse(Console.ReadLine());
+
+            if (noche > 3)
+            {
+                descuento = 200 * noche * 0.17;
+                precioTotal = 200 * noche - descuento;
+                Console.WriteLine($"El cliente debe pagar:{precioTotal}");
+            }
+            else
+            {
+                descuento = 200 * noche * 0.03;
+                precioTotal = 200 * noche - descuento;
+                Console.WriteLine($"El cliente debe pagar: {precioTotal}");
             }
         }
     }
