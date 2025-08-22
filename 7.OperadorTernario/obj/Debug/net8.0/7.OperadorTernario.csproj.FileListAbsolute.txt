@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\bin\Debug\net8.0\7.OperadorTernario.exe
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\bin\Debug\net8.0\7.OperadorTernario.deps.json
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\bin\Debug\net8.0\7.OperadorTernario.runtimeconfig.json
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\bin\Debug\net8.0\7.OperadorTernario.dll
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\bin\Debug\net8.0\7.OperadorTernario.pdb
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\obj\Debug\net8.0\7.OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\obj\Debug\net8.0\7.OperadorTernario.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\obj\Debug\net8.0\7.OperadorTernario.AssemblyInfo.cs
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\obj\Debug\net8.0\7.OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\obj\Debug\net8.0\7.OperadorTernario.sourcelink.json
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\obj\Debug\net8.0\7.OperadorTernario.dll
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\obj\Debug\net8.0\refint\7.OperadorTernario.dll
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\obj\Debug\net8.0\7.OperadorTernario.pdb
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\obj\Debug\net8.0\7.OperadorTernario.genruntimeconfig.cache
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\7.OperadorTernario\obj\Debug\net8.0\ref\7.OperadorTernario.dll
