@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\bin\Debug\net8.0\8.TallerCondicionales.exe
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\bin\Debug\net8.0\8.TallerCondicionales.deps.json
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\bin\Debug\net8.0\8.TallerCondicionales.runtimeconfig.json
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\bin\Debug\net8.0\8.TallerCondicionales.dll
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\bin\Debug\net8.0\8.TallerCondicionales.pdb
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\obj\Debug\net8.0\8.TallerCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\obj\Debug\net8.0\8.TallerCondicionales.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\obj\Debug\net8.0\8.TallerCondicionales.AssemblyInfo.cs
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\obj\Debug\net8.0\8.TallerCondicionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\obj\Debug\net8.0\8.TallerCondicionales.sourcelink.json
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\obj\Debug\net8.0\8.TallerCondicionales.dll
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\obj\Debug\net8.0\refint\8.TallerCondicionales.dll
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\obj\Debug\net8.0\8.TallerCondicionales.pdb
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\obj\Debug\net8.0\8.TallerCondicionales.genruntimeconfig.cache
+C:\Users\B09S105est\Documents\Laura Ardila\LauraArdilaFP\8.TallerCondicionales\obj\Debug\net8.0\ref\8.TallerCondicionales.dll
