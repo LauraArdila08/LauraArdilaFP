@@ -49,6 +49,8 @@ namespace _5.CondicionalAnidado
             8.5 - 9.4 Muy bien
             7.5 - 8.4 Bien*/
 
+            //En la consola se debe probar el promedio usando ',' en vez de '.'
+
             float promedio = 0.0f;
 
             Console.WriteLine("Ingrese promedio");
