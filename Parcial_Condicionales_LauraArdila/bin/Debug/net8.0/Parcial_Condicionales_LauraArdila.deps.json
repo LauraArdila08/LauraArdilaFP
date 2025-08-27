@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Parcial_Condicionales_LauraArdila/1.0.0": {
+        "runtime": {
+          "Parcial_Condicionales_LauraArdila.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial_Condicionales_LauraArdila/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
