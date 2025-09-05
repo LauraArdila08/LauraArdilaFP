@@ -1,0 +1,15 @@
+D:\Laura Ardila\LauraArdilaFP\14.While6\bin\Debug\net8.0\14.While6.exe
+D:\Laura Ardila\LauraArdilaFP\14.While6\bin\Debug\net8.0\14.While6.deps.json
+D:\Laura Ardila\LauraArdilaFP\14.While6\bin\Debug\net8.0\14.While6.runtimeconfig.json
+D:\Laura Ardila\LauraArdilaFP\14.While6\bin\Debug\net8.0\14.While6.dll
+D:\Laura Ardila\LauraArdilaFP\14.While6\bin\Debug\net8.0\14.While6.pdb
+D:\Laura Ardila\LauraArdilaFP\14.While6\obj\Debug\net8.0\14.While6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laura Ardila\LauraArdilaFP\14.While6\obj\Debug\net8.0\14.While6.AssemblyInfoInputs.cache
+D:\Laura Ardila\LauraArdilaFP\14.While6\obj\Debug\net8.0\14.While6.AssemblyInfo.cs
+D:\Laura Ardila\LauraArdilaFP\14.While6\obj\Debug\net8.0\14.While6.csproj.CoreCompileInputs.cache
+D:\Laura Ardila\LauraArdilaFP\14.While6\obj\Debug\net8.0\14.While6.sourcelink.json
+D:\Laura Ardila\LauraArdilaFP\14.While6\obj\Debug\net8.0\14.While6.dll
+D:\Laura Ardila\LauraArdilaFP\14.While6\obj\Debug\net8.0\refint\14.While6.dll
+D:\Laura Ardila\LauraArdilaFP\14.While6\obj\Debug\net8.0\14.While6.pdb
+D:\Laura Ardila\LauraArdilaFP\14.While6\obj\Debug\net8.0\14.While6.genruntimeconfig.cache
+D:\Laura Ardila\LauraArdilaFP\14.While6\obj\Debug\net8.0\ref\14.While6.dll

@@ -12,18 +12,40 @@
 
             int cantidadNumeros = 0;
 
-            int contador = 1;
             int mayoresCero = 0;
-            int menoresCeros = 0;
-            int numIgualCero = 0;
+            int menoresCero = 0;
+            int numCeros = 0;
+            int num = 0;
+            int contador = 0;
+            
 
-            Console.WriteLine("Cantidad de números a ingresar");
+            Console.WriteLine("Cantidad de números a ingresar:");
             cantidadNumeros = Int32.Parse(Console.ReadLine());
 
-            while()
+            while(contador < cantidadNumeros)
             {
+                Console.WriteLine("Escribe el número:");
+                num = Int32.Parse(Console.ReadLine());
 
+                if (num >0)
+                {
+                    mayoresCero++;
+                }
+                else
+                {
+                    if (num<0)
+                    {
+                        menoresCero++;
+                    }
+                    else
+                    {
+                        numCeros++;
+                    }
+                }
+                contador++;
             }
+
+            Console.WriteLine($"Cantidad de números mayores que 0: {mayoresCero}, cantidad de números menores que 0: {menoresCero}, cantidad de números iguales a 0: {numCeros}");
 
 
 
