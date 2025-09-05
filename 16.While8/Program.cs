@@ -1,4 +1,6 @@
-﻿namespace _16.While8
+﻿using System;
+
+namespace _16.While8
 {
     internal class Program
     {
@@ -12,26 +14,27 @@
             int numero2 = 0;
             Random rnd = new Random();
 
-            numero1 = rnd.Next(1, 100);
+            numero1 = rnd.Next(1, 101);
 
-            Console.WriteLine("Adivine el número: Ingrese un número del 1 al 100");
+            Console.Write("Adivine el número.\nIngrese un número del 1 al 100:");
             numero2 = Int32.Parse(Console.ReadLine());
 
-            if(numero1 == numero2)
+            while(numero1 != numero2)
             {
-                Console.WriteLine($"El número es correcto. El número escogido era {numero1}"
-            }
-            else
-            {
-                if (numero2 <numero1) 
-                { 
-
+                if (numero2 > numero1)
+                {
+                    Console.WriteLine("Su intento es demasiado alto, intentelo de nuevo:");
+                   
                 }
                 else
                 {
-
+                    Console.WriteLine("Su intento es demasiado bajo, intentelo de nuevo:");
                 }
+                numero2 = Int32.Parse(Console.ReadLine());
             }
+
+            Console.WriteLine($"Correcto. El número era {numero1}.");
+
         }
 
     }
