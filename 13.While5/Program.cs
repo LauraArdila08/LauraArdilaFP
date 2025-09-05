@@ -22,7 +22,7 @@
                 }
                 contador++;
             }
-            Console.WriteLine( $"La cantidad de números pares del {rango}, es {CantidadPares}"
+            Console.WriteLine($"La cantidad de números pares del {rango}, es {cantidadPares}");
         }
     }
 }
