@@ -56,6 +56,8 @@
             int numeroCuenta = 0;
             int saldo = 0;
             string respuesta = "";
+            int contador2 = 0;
+            int acumulador1 = 0;
 
             do
             {
@@ -68,7 +70,7 @@
                 Console.WriteLine("Ingrese el saldo del usuario:");
                 saldo = int.Parse(Console.ReadLine());
 
-                if (saldo>3000000)
+                if (saldo > 3000000)
                 {
                     Console.WriteLine($"El usuario: {nombre}, con número de cuenta: {numeroCuenta} y saldo {saldo} es apto para el crédito");
                 }
@@ -80,7 +82,12 @@
                 Console.WriteLine("¿Desea ingresar más usuarios? s: Si,  n: No");
                 respuesta = Console.ReadLine().ToLower();
 
+                contador2++;
+                acumulador += saldo;
+
             } while (respuesta == "s");
+
+            Console.WriteLine($"Número de usuarios preguntados: {contador2}. Promedio de los saldos: {acumulador / contador2}");
         }
     }
 }

@@ -13,3 +13,18 @@ C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\17.DoWhile\obj\Debug\net
 C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\17.DoWhile.pdb
 C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\17.DoWhile.genruntimeconfig.cache
 C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\ref\17.DoWhile.dll
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\bin\Debug\net8.0\17.DoWhile.exe
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\bin\Debug\net8.0\17.DoWhile.deps.json
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\bin\Debug\net8.0\17.DoWhile.runtimeconfig.json
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\bin\Debug\net8.0\17.DoWhile.dll
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\bin\Debug\net8.0\17.DoWhile.pdb
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\17.DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\17.DoWhile.AssemblyInfoInputs.cache
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\17.DoWhile.AssemblyInfo.cs
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\17.DoWhile.csproj.CoreCompileInputs.cache
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\17.DoWhile.sourcelink.json
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\17.DoWhile.dll
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\refint\17.DoWhile.dll
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\17.DoWhile.pdb
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\17.DoWhile.genruntimeconfig.cache
+D:\Laura Ardila\LauraArdilaFP\17.DoWhile\obj\Debug\net8.0\ref\17.DoWhile.dll
