@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\bin\Debug\net8.0\20.DoWhile4.exe
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\bin\Debug\net8.0\20.DoWhile4.deps.json
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\bin\Debug\net8.0\20.DoWhile4.runtimeconfig.json
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\bin\Debug\net8.0\20.DoWhile4.dll
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\bin\Debug\net8.0\20.DoWhile4.pdb
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\obj\Debug\net8.0\20.DoWhile4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\obj\Debug\net8.0\20.DoWhile4.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\obj\Debug\net8.0\20.DoWhile4.AssemblyInfo.cs
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\obj\Debug\net8.0\20.DoWhile4.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\obj\Debug\net8.0\20.DoWhile4.sourcelink.json
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\obj\Debug\net8.0\20.DoWhile4.dll
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\obj\Debug\net8.0\refint\20.DoWhile4.dll
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\obj\Debug\net8.0\20.DoWhile4.pdb
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\obj\Debug\net8.0\20.DoWhile4.genruntimeconfig.cache
+C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\20.DoWhile4\obj\Debug\net8.0\ref\20.DoWhile4.dll
