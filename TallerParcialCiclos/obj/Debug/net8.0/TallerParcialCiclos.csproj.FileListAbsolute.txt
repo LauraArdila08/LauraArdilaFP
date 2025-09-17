@@ -13,3 +13,18 @@ C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\TallerParcialCiclos\obj\
 C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.pdb
 C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.genruntimeconfig.cache
 C:\Users\B09S105est\Documents\LauraArdila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\ref\TallerParcialCiclos.dll
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\bin\Debug\net8.0\TallerParcialCiclos.exe
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\bin\Debug\net8.0\TallerParcialCiclos.deps.json
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\bin\Debug\net8.0\TallerParcialCiclos.runtimeconfig.json
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\bin\Debug\net8.0\TallerParcialCiclos.dll
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\bin\Debug\net8.0\TallerParcialCiclos.pdb
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.AssemblyInfoInputs.cache
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.AssemblyInfo.cs
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.csproj.CoreCompileInputs.cache
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.sourcelink.json
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.dll
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\refint\TallerParcialCiclos.dll
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.pdb
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.genruntimeconfig.cache
+D:\Laura Ardila\LauraArdilaFP\TallerParcialCiclos\obj\Debug\net8.0\ref\TallerParcialCiclos.dll

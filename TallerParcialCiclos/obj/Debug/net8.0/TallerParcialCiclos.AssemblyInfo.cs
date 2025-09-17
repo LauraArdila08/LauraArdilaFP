@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TallerParcialCiclos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da74858e082f7f2bc690487c5e08b80f6c5ac980")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a09df8018bab165956fea16b47f416019ad383b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TallerParcialCiclos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TallerParcialCiclos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
