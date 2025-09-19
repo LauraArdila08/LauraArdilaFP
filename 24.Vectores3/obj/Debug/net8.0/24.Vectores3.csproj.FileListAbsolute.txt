@@ -1,0 +1,15 @@
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\bin\Debug\net8.0\24.Vectores3.exe
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\bin\Debug\net8.0\24.Vectores3.deps.json
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\bin\Debug\net8.0\24.Vectores3.runtimeconfig.json
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\bin\Debug\net8.0\24.Vectores3.dll
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\bin\Debug\net8.0\24.Vectores3.pdb
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\obj\Debug\net8.0\24.Vectores3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\obj\Debug\net8.0\24.Vectores3.AssemblyInfoInputs.cache
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\obj\Debug\net8.0\24.Vectores3.AssemblyInfo.cs
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\obj\Debug\net8.0\24.Vectores3.csproj.CoreCompileInputs.cache
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\obj\Debug\net8.0\24.Vectores3.sourcelink.json
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\obj\Debug\net8.0\24.Vectores3.dll
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\obj\Debug\net8.0\refint\24.Vectores3.dll
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\obj\Debug\net8.0\24.Vectores3.pdb
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\obj\Debug\net8.0\24.Vectores3.genruntimeconfig.cache
+D:\Laura Ardila\LauraArdilaFP\24.Vectores3\obj\Debug\net8.0\ref\24.Vectores3.dll
