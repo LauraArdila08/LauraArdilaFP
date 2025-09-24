@@ -1,0 +1,15 @@
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\bin\Debug\net8.0\TallerVectores.exe
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\bin\Debug\net8.0\TallerVectores.deps.json
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\bin\Debug\net8.0\TallerVectores.runtimeconfig.json
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\bin\Debug\net8.0\TallerVectores.dll
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\bin\Debug\net8.0\TallerVectores.pdb
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.AssemblyInfoInputs.cache
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.AssemblyInfo.cs
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.csproj.CoreCompileInputs.cache
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.sourcelink.json
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.dll
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\refint\TallerVectores.dll
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.pdb
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.genruntimeconfig.cache
+C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\ref\TallerVectores.dll
