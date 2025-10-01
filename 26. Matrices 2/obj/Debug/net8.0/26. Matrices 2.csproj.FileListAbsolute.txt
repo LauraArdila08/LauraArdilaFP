@@ -1,0 +1,15 @@
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\bin\Debug\net8.0\26. Matrices 2.exe
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\bin\Debug\net8.0\26. Matrices 2.deps.json
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\bin\Debug\net8.0\26. Matrices 2.runtimeconfig.json
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\bin\Debug\net8.0\26. Matrices 2.dll
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\bin\Debug\net8.0\26. Matrices 2.pdb
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\obj\Debug\net8.0\26. Matrices 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\obj\Debug\net8.0\26. Matrices 2.AssemblyInfoInputs.cache
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\obj\Debug\net8.0\26. Matrices 2.AssemblyInfo.cs
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\obj\Debug\net8.0\26. Matrices 2.csproj.CoreCompileInputs.cache
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\obj\Debug\net8.0\26. Matrices 2.sourcelink.json
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\obj\Debug\net8.0\26. Matrices 2.dll
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\obj\Debug\net8.0\refint\26. Matrices 2.dll
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\obj\Debug\net8.0\26. Matrices 2.pdb
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\obj\Debug\net8.0\26. Matrices 2.genruntimeconfig.cache
+D:\Laura Ardila\LauraArdilaFP\26. Matrices 2\obj\Debug\net8.0\ref\26. Matrices 2.dll
