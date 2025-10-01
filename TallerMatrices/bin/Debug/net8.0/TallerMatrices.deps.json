@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TallerMatrices/1.0.0": {
+        "runtime": {
+          "TallerMatrices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TallerMatrices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

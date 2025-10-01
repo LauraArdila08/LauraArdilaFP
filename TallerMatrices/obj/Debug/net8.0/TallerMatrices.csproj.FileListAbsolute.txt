@@ -1,0 +1,15 @@
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\bin\Debug\net8.0\TallerMatrices.exe
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\bin\Debug\net8.0\TallerMatrices.deps.json
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\bin\Debug\net8.0\TallerMatrices.runtimeconfig.json
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\bin\Debug\net8.0\TallerMatrices.dll
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\bin\Debug\net8.0\TallerMatrices.pdb
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.AssemblyInfoInputs.cache
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.AssemblyInfo.cs
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.csproj.CoreCompileInputs.cache
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.sourcelink.json
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.dll
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\obj\Debug\net8.0\refint\TallerMatrices.dll
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.pdb
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\obj\Debug\net8.0\TallerMatrices.genruntimeconfig.cache
+D:\Laura Ardila\LauraArdilaFP\TallerMatrices\obj\Debug\net8.0\ref\TallerMatrices.dll
