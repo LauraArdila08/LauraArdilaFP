@@ -13,3 +13,18 @@ C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug
 C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.pdb
 C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.genruntimeconfig.cache
 C:\Users\B09S112est\Documents\LauraArdila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\ref\TallerVectores.dll
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\bin\Debug\net8.0\TallerVectores.exe
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\bin\Debug\net8.0\TallerVectores.deps.json
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\bin\Debug\net8.0\TallerVectores.runtimeconfig.json
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\bin\Debug\net8.0\TallerVectores.dll
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\bin\Debug\net8.0\TallerVectores.pdb
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.AssemblyInfoInputs.cache
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.AssemblyInfo.cs
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.csproj.CoreCompileInputs.cache
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.sourcelink.json
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.dll
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\refint\TallerVectores.dll
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.pdb
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\TallerVectores.genruntimeconfig.cache
+D:\Laura Ardila\LauraArdilaFP\TallerVectores\obj\Debug\net8.0\ref\TallerVectores.dll

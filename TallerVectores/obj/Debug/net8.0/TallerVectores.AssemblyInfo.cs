@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TallerVectores")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf2daf9c34ce4519b07d96321e8d25391e0da1a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+801ba9a02dd617d0d9e42053dccbe613c180d25b")]
 [assembly: System.Reflection.AssemblyProductAttribute("TallerVectores")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TallerVectores")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
