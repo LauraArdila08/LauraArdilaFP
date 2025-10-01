@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27.Matrices2", "27.Matrices2.csproj", "{B38C0139-CF9A-4C4C-8137-A0273813EDC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TallerMatrices", "..\TallerMatrices\TallerMatrices.csproj", "{A5CEBA9A-A8F8-4E4B-ADC7-BD7028E324AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B38C0139-CF9A-4C4C-8137-A0273813EDC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38C0139-CF9A-4C4C-8137-A0273813EDC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38C0139-CF9A-4C4C-8137-A0273813EDC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38C0139-CF9A-4C4C-8137-A0273813EDC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5CEBA9A-A8F8-4E4B-ADC7-BD7028E324AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5CEBA9A-A8F8-4E4B-ADC7-BD7028E324AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5CEBA9A-A8F8-4E4B-ADC7-BD7028E324AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5CEBA9A-A8F8-4E4B-ADC7-BD7028E324AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9F9307F-6D18-427C-B4B4-CF2FFBC00A6F}
+	EndGlobalSection
+EndGlobal
