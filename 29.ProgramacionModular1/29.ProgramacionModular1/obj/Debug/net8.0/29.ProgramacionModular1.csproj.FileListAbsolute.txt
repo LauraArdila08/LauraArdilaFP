@@ -1,0 +1,15 @@
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\bin\Debug\net8.0\29.ProgramacionModular1.exe
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\bin\Debug\net8.0\29.ProgramacionModular1.deps.json
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\bin\Debug\net8.0\29.ProgramacionModular1.runtimeconfig.json
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\bin\Debug\net8.0\29.ProgramacionModular1.dll
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\bin\Debug\net8.0\29.ProgramacionModular1.pdb
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\obj\Debug\net8.0\29.ProgramacionModular1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\obj\Debug\net8.0\29.ProgramacionModular1.AssemblyInfoInputs.cache
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\obj\Debug\net8.0\29.ProgramacionModular1.AssemblyInfo.cs
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\obj\Debug\net8.0\29.ProgramacionModular1.csproj.CoreCompileInputs.cache
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\obj\Debug\net8.0\29.ProgramacionModular1.sourcelink.json
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\obj\Debug\net8.0\29.ProgramacionModular1.dll
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\obj\Debug\net8.0\refint\29.ProgramacionModular1.dll
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\obj\Debug\net8.0\29.ProgramacionModular1.pdb
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\obj\Debug\net8.0\29.ProgramacionModular1.genruntimeconfig.cache
+C:\Users\B09S105est\Documents\LSAA FP\LauraArdilaFP\29.ProgramacionModular1\29.ProgramacionModular1\obj\Debug\net8.0\ref\29.ProgramacionModular1.dll
