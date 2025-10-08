@@ -1,0 +1,15 @@
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\bin\Debug\net8.0\Parcial3Arreglos.exe
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\bin\Debug\net8.0\Parcial3Arreglos.deps.json
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\bin\Debug\net8.0\Parcial3Arreglos.runtimeconfig.json
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\bin\Debug\net8.0\Parcial3Arreglos.dll
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\bin\Debug\net8.0\Parcial3Arreglos.pdb
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.AssemblyInfoInputs.cache
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.AssemblyInfo.cs
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.csproj.CoreCompileInputs.cache
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.sourcelink.json
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.dll
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\obj\Debug\net8.0\refint\Parcial3Arreglos.dll
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.pdb
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\obj\Debug\net8.0\Parcial3Arreglos.genruntimeconfig.cache
+D:\Laura Ardila\LauraArdilaFP\Parcial3Arreglos\obj\Debug\net8.0\ref\Parcial3Arreglos.dll
