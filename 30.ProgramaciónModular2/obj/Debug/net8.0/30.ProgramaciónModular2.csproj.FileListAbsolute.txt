@@ -1,0 +1,15 @@
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\obj\Debug\net8.0\30.ProgramaciónModular2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\obj\Debug\net8.0\30.ProgramaciónModular2.AssemblyInfoInputs.cache
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\obj\Debug\net8.0\30.ProgramaciónModular2.AssemblyInfo.cs
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\obj\Debug\net8.0\30.ProgramaciónModular2.csproj.CoreCompileInputs.cache
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\obj\Debug\net8.0\30.ProgramaciónModular2.sourcelink.json
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\bin\Debug\net8.0\30.ProgramaciónModular2.exe
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\bin\Debug\net8.0\30.ProgramaciónModular2.deps.json
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\bin\Debug\net8.0\30.ProgramaciónModular2.runtimeconfig.json
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\bin\Debug\net8.0\30.ProgramaciónModular2.dll
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\bin\Debug\net8.0\30.ProgramaciónModular2.pdb
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\obj\Debug\net8.0\30.ProgramaciónModular2.dll
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\obj\Debug\net8.0\refint\30.ProgramaciónModular2.dll
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\obj\Debug\net8.0\30.ProgramaciónModular2.pdb
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\obj\Debug\net8.0\30.ProgramaciónModular2.genruntimeconfig.cache
+D:\Laura Ardila\LauraArdilaFP\30.ProgramaciónModular2\obj\Debug\net8.0\ref\30.ProgramaciónModular2.dll
